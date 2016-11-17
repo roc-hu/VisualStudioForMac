@@ -1,6 +1,7 @@
 # VisualStudioForMac
 
-下载链接: https://pan.baidu.com/s/1o88kSEA 密码: fxjk
+### 官方地址：https://www.visualstudio.com/vs/visual-studio-mac/
+### 百度网盘下载链接: https://pan.baidu.com/s/1o88kSEA 密码: fxjk
 
 资源：
 * MonoFramework-MDK-4.8.0.344.macos10.xamarin.universal.pkg
