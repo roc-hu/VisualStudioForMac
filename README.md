@@ -3,12 +3,12 @@
 下载链接: https://pan.baidu.com/s/1o88kSEA 密码: fxjk
 
 资源：
-MonoFramework-MDK-4.8.0.344.macos10.xamarin.universal.pkg
-VisualStudioForMac-Preview1-7.0.0.347.dmg
-VisualStudioforMacPreviewInstaller.dmg
-xamarin.android-7.1.0-2.pkg
-xamarin.ios-10.4.0.20.pkg
-xamarin.mac-3.0.0.290.pkg
+* MonoFramework-MDK-4.8.0.344.macos10.xamarin.universal.pkg
+* VisualStudioForMac-Preview1-7.0.0.347.dmg
+* VisualStudioforMacPreviewInstaller.dmg
+* xamarin.android-7.1.0-2.pkg
+* xamarin.ios-10.4.0.20.pkg
+* xamarin.mac-3.0.0.290.pkg
 
 
 ＃Help
