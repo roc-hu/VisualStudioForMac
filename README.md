@@ -12,7 +12,7 @@
 * xamarin.mac-3.0.0.290.pkg
 
 
-＃Help
+# Help
 
 It was not possible to complete an automatic installation. This might be due to a problem with your network, proxy servers or an unsolvable installation conflict. At this point, you can continue the installation by manually downloading and installing the independent pieces. The list below shows each component that you need to install.
 
